@@ -11,3 +11,4 @@ export default connect(
 		subBalance: subBalance(dispatch)}
 	)
 )(AddSubBalance);
+//
